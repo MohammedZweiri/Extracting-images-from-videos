@@ -2,7 +2,7 @@
 
 Authors:
 
-Mohammed Zweiri (2021) and Yahya Zweiri (2020)
+Mohammed Zweiri (2021)
 
 Image Extraction from video clips
 
